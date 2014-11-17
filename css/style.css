@@ -1,0 +1,12 @@
+#light-blue {
+	height: 1500px;
+	background-image: url(../images/tile_lightblue.jpg); 
+}
+#fade-dark {
+	background-image: url(../images/depth4_fadetop.png);
+	height: 380px;
+}
+#dark-blue {
+	height: 1500px;
+	background-image: url(../images/tile_darkblue.jpg); 
+}
