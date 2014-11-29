@@ -43,3 +43,9 @@ header {
 	height: 1500px;
 	background-image: url(../images/tile_darkblue.jpg); 
 }
+div.squiddy { 
+	image url
+        position: fixed;
+        top: 30px;
+        right: 5px;
+}
