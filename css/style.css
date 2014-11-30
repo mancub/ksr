@@ -44,7 +44,7 @@ header {
 	background-image: url(../images/tile_darkblue.jpg); 
 }
 div.squiddy{
-  content:url(https://raw.githubusercontent.com/mancub/ksr/master/images/squid.png);
+  content url(https://raw.githubusercontent.com/mancub/ksr/master/images/squid.png);
   bottom: 0;
   height: 100px;
   left: 0;
