@@ -43,14 +43,3 @@ header {
 	height: 1500px;
 	background-image: url(../images/tile_darkblue.jpg); 
 }
-div.squiddy{
-  background: red;
-  bottom: 0;
-  height: 100px;
-  left: 0;
-  margin: auto;
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 100px;
-}
