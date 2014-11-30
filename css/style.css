@@ -43,9 +43,3 @@ header {
 	height: 1500px;
 	background-image: url(../images/tile_darkblue.jpg); 
 }
-#squiddy { 
-	content:url(https://github.com/mancub/ksr/blob/master/images/squid.png);
-        position: fixed;
-        top: 30px;
-        right: 5px;
-}
