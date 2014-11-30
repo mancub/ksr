@@ -48,5 +48,9 @@ div.squiddy {
        display: block;
        margin-left: auto;
        margin-right: auto;
+       position: fixed;
+       top: 30px;
+       right: 5px;
+
 }
 
