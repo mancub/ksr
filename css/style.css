@@ -45,7 +45,7 @@ header {
 }
 div.squiddy{
   content: url(https://raw.githubusercontent.com/mancub/ksr/master/images/squid.png);
-  bottom: 0;
+  bottom: 10;
   height: 100px;
   left: 0;
   margin: auto;
