@@ -48,14 +48,13 @@ div.squiddy{
   bottom: 90px;
   height: 100px;
   left: 0;
-  margin: auto;
+  margin-left: 50px;
   position: fixed;
   top: 0;
   right: 0;
   width: 100px;
   z-index: 100;
   padding-top: 300px;
-  margin-left: 50px;
 }
 .align-right { float:right; margin-right: 100px; }
 .align-left { float:left; margin-left: 100px; }
