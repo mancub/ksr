@@ -43,8 +43,7 @@ header {
 	height: 1500px;
 	background-image: url(../images/tile_darkblue.jpg); 
 }
-div.squiddy{
-  content: url(http://www.picgifs.com/animal-graphics/animal-graphics/squid/animal-graphics-squid-833230.gif);
+.squiddy{
   bottom: 90px;
   height: 100px;
   left: 0;
@@ -56,7 +55,25 @@ div.squiddy{
   z-index: 100;
   padding-top: 300px;
 }
-.align-right { float:right; margin-right: 100px; margin-top: 800px; }
-.align-left { float:left; margin-left: 100px; }
+
+.squiddy .gif {
+	/*content: url(.../images/squiddy_gif.gif); */
+	content: url(http://www.picgifs.com/animal-graphics/animal-graphics/squid/animal-graphics-squid-833230.gif);
+	display: none;
+}
+
+.squiddy .still {
+	content: url(../images/squiddy_internet.jpg);
+	display: none;
+}
+.align-right { 
+	float:right; 
+	margin-right: 100px; 
+	margin-top: 800px; 
+}
+.align-left { 
+	float:left; 
+	margin-left: 100px; 
+}
 
 
