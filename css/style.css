@@ -58,5 +58,5 @@ div.squiddy{
 }
 .align-right { float:right; margin-right: 100px; }
 .align-left { float:left; margin-left: 100px; }
-.align-bottom {float:bottom;}
+.align-bottom {float:bottom; float:right; margin-right: 100px;}
 
