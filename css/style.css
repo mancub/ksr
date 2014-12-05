@@ -63,10 +63,11 @@ div.gifone{
   left: 0px;
   position: absolute;
   top: 0px;
-  right: 800px;
+  right: 600px;
   width: 100px;
   padding-top: 300px;
   padding-right: 200px;
   float: right;
+  margin: auto;
 }
 
