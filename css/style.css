@@ -56,7 +56,7 @@ div.squiddy{
   z-index: 100;
   padding-top: 300px;
 }
-div.gifone{
-  content: url(<iframe src="http://giphy.com/embed/Kerg053G7ZJUQ?html5=true" width="480" height="362" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>);
-}
+.align-right { float:right; margin: 0 0 15px 15px; }
+.align-left { float:left; margin: 0 15px 15px 0; }
+
 
