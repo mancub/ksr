@@ -58,16 +58,5 @@ div.squiddy{
 }
 div.gifone{
   content: url(<iframe src="http://giphy.com/embed/Kerg053G7ZJUQ?html5=true" width="480" height="362" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>);
-  bottom: 0px;
-  height: 100px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  right: 600px;
-  width: 100px;
-  padding-top: 300px;
-  padding-right: 200px;
-  margin: auto;
-  text-align: right;
 }
 
