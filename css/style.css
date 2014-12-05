@@ -60,11 +60,11 @@ div.gifone{
   content: url(<iframe src="http://giphy.com/embed/Kerg053G7ZJUQ?html5=true" width="480" height="362" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>);
   bottom: 0px;
   height: 100px;
-  left: 0;
+  left: 0px;
   margin: auto;
   position: absolute;
-  top: 0;
-  right: 200;
+  top: 0px;
+  right: 200px;
   width: 100px;
   padding-top: 300px;
 }
