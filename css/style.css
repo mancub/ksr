@@ -55,7 +55,7 @@ div.squiddy{
   width: 100px;
   z-index: 100;
   padding-top: 300px;
-  padding-left: 100px;
+  margin-left: 50px;
 }
 .align-right { float:right; margin-right: 100px; }
 .align-left { float:left; margin-left: 100px; }
