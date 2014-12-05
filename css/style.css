@@ -64,9 +64,8 @@ div.gifone{
   margin: auto;
   position: absolute;
   top: 0;
-  right: 0;
+  right: 200;
   width: 100px;
-  z-index: 100;
   padding-top: 300px;
 }
 
