@@ -38,17 +38,20 @@ $(document).ready(function(){
 	}
 	function scrollStart () {
 		// .show() gif
-		
+		$('.still').hide();
+		$('.gif').show();
     $('#output').html("scrollStart");
 	}
 	function scrollStop () {
 		// .hide() gif
-		
+		$('.gif').hide();
+		$('.still').show();
 		$('#output').html("scrollStop");
 		// clear interval
 		clearInterval(scrollInterval);
 		// set back to false so that we can reint if they start scrolling again.
 		scrollIntervalSet = false;
 	}
+
   
 });
