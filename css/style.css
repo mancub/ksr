@@ -56,3 +56,17 @@ div.squiddy{
   z-index: 100;
   padding-top: 300px;
 }
+div.gifone{
+  content: url(<iframe src="http://giphy.com/embed/Kerg053G7ZJUQ?html5=true" width="480" height="362" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>);
+  bottom: 90px;
+  height: 100px;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100px;
+  z-index: 100;
+  padding-top: 300px;
+}
+}
