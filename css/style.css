@@ -64,7 +64,7 @@ header {
 }
 
 .squiddy .still {
-	content: url(../images/squiddy_internet.jpg);
+	content: url(https://raw.githubusercontent.com/mancub/ksr/master/images/squid-gif.gif);
 	display: none;
 }
 .align-right { 
