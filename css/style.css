@@ -58,7 +58,7 @@ header {
 
 .squiddy .gif {
 	/*content: url(.../images/squiddy_gif.gif); */
-	content: url(http://www.picgifs.com/animal-graphics/animal-graphics/squid/animal-graphics-squid-833230.gif);
+	content: url(https://raw.githubusercontent.com/mancub/ksr/master/images/squid-gif.gif);
 	display: none;
 }
 
