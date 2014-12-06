@@ -43,6 +43,9 @@ header {
 	height: 1500px;
 	background-image: url(../images/tile_darkblue.jpg); 
 }
+#waves {
+	background-image: url(http://www.clipartpanda.com/clipart_images/shared-by-sketchiie-12-14-8438346);
+	height: 100px;
 .squiddy{
   content: url(http://i1256.photobucket.com/albums/ii492/wasawsolos/squid-large2%201.gif);
   bottom: 90px;
