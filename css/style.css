@@ -84,9 +84,3 @@ header {
 	margin-left: 100px; 
 }
 
-.bottom_aligner {
-    display: inline-block;
-    height: 100%;
-    vertical-align: bottom;
-    width: 0px;
-}
