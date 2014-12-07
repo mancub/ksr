@@ -82,5 +82,7 @@ header {
 	float:left; 
 	margin-left: 100px; 
 }
-
+p {
+    font-size: 150%;
+}
 
