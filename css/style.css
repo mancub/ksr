@@ -46,6 +46,7 @@ header {
 #waves {
 	background-image: url(http://plasticwastesolutions.com/wp-content/uploads/2012/09/Blest-Plastic-to-Oil.jpg);
 	height: 100px;
+	z-index: 10;
 }
 .squiddy{
   content: url(http://i1256.photobucket.com/albums/ii492/wasawsolos/squid-large2%201.gif);
