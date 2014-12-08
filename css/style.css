@@ -27,6 +27,14 @@ body {
 	margin: 0;
 }
 
+h1 {
+	font-size: 1.5em;
+}
+
+p {
+	font-size: 1em;
+}
+
 header {
 	background-image: url(../images/Baltimore-Skyline.jpg);
 	height: 500px;
@@ -34,16 +42,33 @@ header {
 	background-position: center;
 }
 
+header h1 {
+	text-align: center;
+	font-size: 2.5em;
+}
+
 #light-blue {
 	height: 1500px;
-	background-image: url(../images/tile_lightblue.jpg); 
+	background-image: url(../images/tile_lightblue.jpg);
+}
+
+.plastic-box {
+	padding-top: 20px;
+	margin-left: 40px;
+
 }
 #fade-dark {
 	background-image: url(../images/depth4_fadetop.png);
 	height: 380px;
 }
+.content h1 {
+	padding-top: 78px;
+	font-size: 2.5em;
+	text-align: center;
+}
+
 #dark-blue {
-	height: 1500px;
+	height: 2700px;
 	background-image: url(../images/tile_darkblue.jpg); 
 }
 #waves {
@@ -76,32 +101,42 @@ header {
 #box.one {
 	text-align: left;
 	margin-left: 40px;
-	
+	background-image: url(../images/monster_two-whales-attacking-ship.jpg);
+	background-repeat: no-repeat;
 }
 
 #box.two {
 	float: right;
 	margin-right: 40px;
+	background-image: url(../images/monster_whale-attack-indies.jpg);
+	background-repeat: no-repeat;
 }
 
 #box.three {
 	text-align: left;
 	margin-left: 40px;
+	background-image: url(../images/monster_sea-swine.jpg);
+	background-repeat: no-repeat;
 }
 
 #box.four {
 	float: right;
-	margin-right: 40px;
+	margin-right: 40px; 
+	background-image: url(../images/monster_elephish.jpg);
+	background-repeat: no-repeat;
 }
 
 #box.five {
 	text-align: left;
 	margin-left: 40px;
+	padding: 10px;
 }
 
 #box.six {
 	float: right;
 	margin-right: 40px;
+	background-image: url(../images/monster_walrus1.jpg);
+	background-repeat: no-repeat;
 }
 
 #box {
@@ -126,13 +161,19 @@ header {
 	/*content: url(https://raw.githubusercontent.com/mancub/ksr/master/images/squid-gif.gif);*/
 	display: none;
 }
-.align-right { 
-	float:right; 
-	margin-right: 100px; 
-	margin-top: 800px; 
+footer { 
+	margin: auto; 
+	text-align: center; 
+}
+
+footer img {
+	margin: auto;
+	text-align: center;
+	display: inline-block;
 }
 .align-left { 
 	float:left; 
 	margin-left: 100px; 
 }
+
 
