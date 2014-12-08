@@ -66,7 +66,7 @@ header {
 
 #box {
 	min-height: 300px;
-	width: 400px;
+	width: 550px;
 	background: white;
 	position: relative;
 	display: inline-block;
@@ -94,6 +94,27 @@ header {
 	margin-right: 40px;
 }
 
+#box.five {
+	text-align: left;
+	margin-left: 40px;
+}
+
+#box.six {
+	float: right;
+	margin-right: 40px;
+}
+
+#box {
+	transition: background-color 2s ease;
+	background-color: gray;
+	opacity: .3;
+}
+
+#box:hover {
+	background-color: gray;
+	opacity: .9;
+}
+    
 .squiddy .gif {
 	content: url(../images/octopus.gif); 
 	/*content: url(https://raw.githubusercontent.com/mancub/ksr/master/images/squid-gif.gif);*/
