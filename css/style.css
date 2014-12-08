@@ -52,7 +52,6 @@ header {
 	z-index: 200;
 }
 .squiddy{
-  content: url(http://www.animatedimages.org/data/media/552/animated-octopus-image-0021.gif);
   bottom: 90px;
   height: 150px;
   left: 0;
@@ -65,14 +64,45 @@ header {
   padding-top: 300px;
 }
 
+#box {
+	min-height: 300px;
+	width: 400px;
+	background: white;
+	position: relative;
+	display: inline-block;
+	margin-bottom: 400px;
+}
+
+#box.one {
+	text-align: left;
+	margin-left: 40px;
+	
+}
+
+#box.two {
+	float: right;
+	margin-right: 40px;
+}
+
+#box.three {
+	text-align: left;
+	margin-left: 40px;
+}
+
+#box.four {
+	float: right;
+	margin-right: 40px;
+}
+
 .squiddy .gif {
-	/*content: url(.../images/squiddy_gif.gif); */
-	content: url(https://raw.githubusercontent.com/mancub/ksr/master/images/squid-gif.gif);
+	content: url(../images/octopus.gif); 
+	/*content: url(https://raw.githubusercontent.com/mancub/ksr/master/images/squid-gif.gif);*/
 	display: none;
 }
 
 .squiddy .still {
-	content: url(https://raw.githubusercontent.com/mancub/ksr/master/images/squid-gif.gif);
+	content: url(../images/octopus.png);
+	/*content: url(https://raw.githubusercontent.com/mancub/ksr/master/images/squid-gif.gif);*/
 	display: none;
 }
 .align-right { 
